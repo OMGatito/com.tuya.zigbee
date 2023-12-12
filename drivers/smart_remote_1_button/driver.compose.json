@@ -20,10 +20,12 @@
       "manufacturerName": [
         "_TZ3000_kjfzuycl",
         "_TZ3000_rco1yzb1",
-        "_TZ3000_yirp2pgd"
+        "_TZ3000_yirp2pgd",
+        "_TZ3000_mrpevh8p"
       ],
       "productId": [
-        "TS004F"
+        "TS004F",
+        "TS0041"
       ],
       "endpoints": {
         "1": {
